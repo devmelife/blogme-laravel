@@ -1,0 +1,16 @@
+.log {
+    position: absolute;
+    top: 25%;
+    width: 100%;
+    line-height: 0.4em;
+    opacity: .9;
+}
+
+#particles-js {
+    background-image: url('img/image1.jpg');
+    height: 100vh;
+}
+
+.invalid-feedback {
+    font-size: 60%;
+}
